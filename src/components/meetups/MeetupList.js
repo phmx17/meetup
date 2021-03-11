@@ -13,7 +13,6 @@ const MeetupList = (props) => {
             address={meetup.address}
             descritpion={meetup.description}
           />
-
         ))
       }  
     </ul>
